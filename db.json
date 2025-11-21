@@ -1,0 +1,256 @@
+{
+  "teams": [
+    {
+      "id": "4bd1",
+      "leader": {
+        "name": "陳小仲",
+        "phone": "",
+        "fax": "",
+        "address": "新北樹林",
+        "mobile": "0922988477",
+        "email": "dexterchen1106@outlook.com",
+        "idNumber": "F193697366",
+        "gender": "male",
+        "birthday": "2000-11-06",
+        "emergencyName": "楊太太",
+        "emergencyPhone": "0987654321"
+      },
+      "plan": {
+        "teamName": "楊",
+        "groupSize": 4,
+        "entryDate": "2025-11-26T16:00:00.000Z",
+        "exitDate": "2025-11-28T16:00:00.000Z",
+        "mainRoute": "奇萊南華"
+      },
+      "members": [
+        "F193697368"
+      ],
+      "teamCode": "202511033106",
+      "createdAt": "2025-11-03T12:55:22.307Z"
+    },
+    {
+      "id": "01e4",
+      "leader": {
+        "name": "陳小仲",
+        "phone": "",
+        "fax": "",
+        "address": "新北樹林",
+        "mobile": "0922988477",
+        "email": "dexterchen1106@outlook.com",
+        "idNumber": "F193697366",
+        "gender": "male",
+        "birthday": "2000-11-06",
+        "emergencyName": "楊太太",
+        "emergencyPhone": "0987654321"
+      },
+      "plan": {
+        "teamName": "yoyo",
+        "groupSize": 4,
+        "entryDate": "2025-11-20T16:00:00.000Z",
+        "exitDate": "2025-11-22T16:00:00.000Z",
+        "mainRoute": "奇萊南華"
+      },
+      "teamCode": "202511059231",
+      "createdAt": "2025-11-05T02:59:53.564Z",
+      "members": []
+    },
+    {
+      "id": "6a60",
+      "leader": {
+        "name": "陳小仲",
+        "phone": "",
+        "fax": "",
+        "address": "新北樹林",
+        "mobile": "0922988477",
+        "email": "dexterchen1106@outlook.com",
+        "idNumber": "F193697366",
+        "gender": "male",
+        "birthday": "2000-11-06",
+        "emergencyName": "楊太太",
+        "emergencyPhone": "0987654321"
+      },
+      "plan": {
+        "teamName": "測試3",
+        "groupSize": 3,
+        "entryDate": "2025-11-04T16:00:00.000Z",
+        "exitDate": "2025-11-07T16:00:00.000Z",
+        "mainRoute": "玉山"
+      },
+      "teamCode": "202511055318",
+      "createdAt": "2025-11-05T03:01:22.704Z",
+      "members": [
+        "F193697436",
+        "F103697366"
+      ]
+    },
+    {
+      "id": "05b8",
+      "leader": {
+        "name": "青埔人",
+        "phone": "",
+        "fax": "",
+        "address": "桃園青埔",
+        "mobile": "0922988477",
+        "email": "dexterchen1106@outlook.com",
+        "idNumber": "H193697366",
+        "gender": "male",
+        "birthday": "2000-11-06",
+        "emergencyName": "楊太太",
+        "emergencyPhone": "0987654321"
+      },
+      "plan": {
+        "teamName": "青龍人戰隊",
+        "groupSize": 2,
+        "entryDate": "2025-12-26T16:00:00.000Z",
+        "exitDate": "2025-12-27T16:00:00.000Z",
+        "mainRoute": "北大武山"
+      },
+      "teamCode": "202511051682",
+      "createdAt": "2025-11-05T03:09:01.471Z",
+      "members": [
+        "F193697366"
+      ]
+    },
+    {
+      "id": "59ad",
+      "leader": {
+        "name": "張小妹",
+        "phone": "",
+        "fax": "",
+        "address": "新北樹林",
+        "mobile": "0982347297",
+        "email": "dd@dd.com",
+        "idNumber": "F294897366",
+        "gender": "female",
+        "birthday": "2000-11-06",
+        "emergencyName": "楊太太",
+        "emergencyPhone": "0922384111"
+      },
+      "plan": {
+        "teamName": "高山青",
+        "groupSize": 3,
+        "entryDate": "2025-11-02T16:00:00.000Z",
+        "exitDate": "2025-11-07T16:00:00.000Z",
+        "mainRoute": "雪霸線"
+      },
+      "teamCode": "202511056885",
+      "createdAt": "2025-11-05T09:05:59.493Z",
+      "members": [
+        "H160671087",
+        "F193697366"
+      ]
+    },
+    {
+      "id": "886c",
+      "leader": {
+        "name": "陳小仲",
+        "phone": "0222025361",
+        "fax": "88687702226",
+        "address": "新北樹林",
+        "mobile": "0922988477",
+        "email": "dexterchen1106@outlook.com",
+        "idNumber": "F193697366",
+        "gender": "male",
+        "birthday": "2000-11-06",
+        "emergencyName": "楊太太",
+        "emergencyPhone": "0922384111"
+      },
+      "plan": {
+        "teamName": "asdfasfqew",
+        "groupSize": 4,
+        "entryDate": "2025-11-28T16:00:00.000Z",
+        "exitDate": "2025-11-29T16:00:00.000Z",
+        "mainRoute": "雪霸線"
+      },
+      "teamCode": "202511107152",
+      "createdAt": "2025-11-10T01:17:44.469Z",
+      "members": []
+    },
+    {
+      "id": "0be8",
+      "leader": {
+        "name": "陳小仲",
+        "phone": "0222025361",
+        "fax": "88687702226",
+        "address": "新北樹林",
+        "mobile": "0922988477",
+        "email": "dexterchen1106@outlook.com",
+        "idNumber": "F193697366",
+        "gender": "male",
+        "birthday": "2000-11-06",
+        "emergencyName": "楊太太",
+        "emergencyPhone": "0922384111"
+      },
+      "plan": {
+        "teamName": "qewqwe",
+        "groupSize": 3,
+        "entryDate": "2025-11-14T16:00:00.000Z",
+        "exitDate": "2025-11-15T16:00:00.000Z",
+        "mainRoute": "北大武山"
+      },
+      "teamCode": "202511107228",
+      "createdAt": "2025-11-10T01:19:39.857Z",
+      "members": []
+    },
+    {
+      "id": "94b9",
+      "leader": {
+        "name": "陳小仲",
+        "phone": "0222025361",
+        "fax": "88687702226",
+        "address": "新北樹林",
+        "mobile": "0922988477",
+        "email": "dexterchen1106@outlook.com",
+        "idNumber": "F193697366",
+        "gender": "male",
+        "birthday": "2000-11-06",
+        "emergencyName": "楊太太",
+        "emergencyPhone": "0922384111"
+      },
+      "plan": {
+        "teamName": "23131231",
+        "groupSize": 4,
+        "entryDate": "2025-11-27T16:00:00.000Z",
+        "exitDate": "2025-11-28T16:00:00.000Z",
+        "mainRoute": "北大武山"
+      },
+      "teamCode": "202511109230",
+      "createdAt": "2025-11-10T01:23:28.738Z",
+      "members": []
+    },
+    {
+      "id": "6e2f",
+      "leader": {
+        "name": "陳小仲",
+        "phone": "",
+        "fax": "",
+        "address": "新北樹林",
+        "mobile": "0922988477",
+        "email": "dd@outlook.com",
+        "idNumber": "F193697366",
+        "gender": "male",
+        "birthday": "2000-11-06",
+        "emergencyName": "陳大仲",
+        "emergencyPhone": "0911876345"
+      },
+      "plan": {
+        "teamName": "e人登山隊",
+        "groupSize": 2,
+        "entryDate": "2025-11-23T16:00:00.000Z",
+        "exitDate": "2025-11-24T16:00:00.000Z",
+        "mainRoute": "武稜四秀線"
+      },
+      "teamCode": "202511199867",
+      "createdAt": "2025-11-19T07:18:56.347Z",
+      "members": []
+    }
+  ],
+  "members": [
+    {
+      "id": "1",
+      "name": "Member 1",
+      "phone": "1234567890",
+      "email": "member1@example.com"
+    }
+  ]
+}
