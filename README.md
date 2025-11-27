@@ -151,9 +151,3 @@ server {
 
 MIT License
 
-## 聯絡我們
-
-如有問題或建議，請聯絡：
-
-- 電子信箱：service@e-hiker.com
-- 客服電話：02-1234-5678
