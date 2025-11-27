@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "登山客入山申請網站",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "dev": "vite --mode dev",
     "prod": "vite --mode prod",
