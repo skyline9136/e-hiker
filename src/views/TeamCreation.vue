@@ -280,7 +280,10 @@ function buildTeamCode() {
   const mm = String(d.getMonth() + 1).padStart(2, "0");
   const dd = String(d.getDate()).padStart(2, "0");
   const datePart = `${yyyy}${mm}${dd}`;
-  const randomPart = String(Math.floor(Math.random() * 10000)).padStart(4, "0");
+
+  const array = new Uint16Array(1);
+  crypto.getRandomValues(array);
+  const randomPart = String(array[0] % 10000).padStart(4, "0");
   return `${datePart}${randomPart}`;
 }
 
